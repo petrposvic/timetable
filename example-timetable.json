@@ -1,0 +1,27 @@
+[{
+  "name": "Monday",
+  "start": 7.0,
+  "lessons": [{
+    "name": "Math",
+    "duration": 4
+  }, {
+    "name": "Lunch",
+    "duration": 1
+  }, {
+    "name": "English",
+    "duration": 5
+  }]
+}, {
+  "name": "Thusday",
+  "start": 9.0,
+  "lessons": [{
+    "name": "English",
+    "duration": 4
+  }, {
+    "name": "Lunch",
+    "duration": 1.5
+  }, {
+    "name": "Math",
+    "duration": 4
+  }]
+}]

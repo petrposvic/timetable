@@ -1,0 +1,17 @@
+{
+  "bg": "darkgray",
+  "fg": "white",
+
+  "lessons": {
+    "Math": {
+      "bg": "yellow",
+      "fg": "black"
+    },
+    "English": {
+      "bg": "deepskyblue"
+    },
+    "Lunch": {
+      "bg": "gray"
+    }
+  }
+}
